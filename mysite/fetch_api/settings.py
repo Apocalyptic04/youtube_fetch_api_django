@@ -129,7 +129,7 @@ USE_L10N = True
 USE_TZ = True
 
 
-API_KEYS = ['AIzaSyDeolxyBZusbEota-bPARwmutBCV8kVUe0',]
+API_KEYS = ['AIzaSyDeolxyBZusbEota-',]
 
 REST_FRAMEWORK = {
     'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend'],
