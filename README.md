@@ -27,3 +27,11 @@ open http://127.0.0.1:8000/new to fetch the new videos in paginated and reverse 
 
 ###For watching added videos
 open http://127.0.0.1:8000 to see all the fetched videos related to cricket query posted in the past 5 minutes.
+
+## Screenshots
+![Screenshot 2021-11-15 231941](https://user-images.githubusercontent.com/65764814/141837099-10ee0b3d-91a6-4997-8e82-23841f5297d3.png)
+
+![Screenshot 2021-11-15 232045](https://user-images.githubusercontent.com/65764814/141837141-7736a54b-8f9b-432c-8d33-09fee7506523.png)
+
+![Screenshot 2021-11-15 232113](https://user-images.githubusercontent.com/65764814/141837153-2eae1865-2a34-45c1-99ba-89ea7ea4f035.png)
+
