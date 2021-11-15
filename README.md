@@ -11,7 +11,7 @@ mysite contains:
 
 
 ## Clone the repo and install Requirements:
-1. git clone
+1. git clone https://github.com/Apocalyptic04/youtube_fetch_api_django.git
 2. cd mysite
 3. pip3 install -r requirements.txt (Install the requirements preferrably in Virtual environment)
 
